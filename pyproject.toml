@@ -1,0 +1,13 @@
+[project]
+name = "data-engineering"
+version = "0.1.0"
+description = "Learning data engineering fundamentals"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "altair>=5.5.0",
+    "bokeh>=3.7.2",
+    "bokeh-sampledata>=2024.2",
+    "ipykernel>=6.29.5",
+    "polars>=1.27.1",
+]
