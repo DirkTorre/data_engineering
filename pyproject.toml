@@ -9,5 +9,7 @@ dependencies = [
     "bokeh>=3.7.2",
     "bokeh-sampledata>=2024.2",
     "ipykernel>=6.29.5",
+    "numba>=0.61.2",
     "polars>=1.27.1",
+    "pyarrow>=20.0.0",
 ]
